@@ -13,4 +13,3 @@ I am mostly interested in machine learning and data analysis but I am also tryin
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://www.linkedin.com/in/abbasallahverdili/" rel="nofollow">LinkedIn</a></li>
 </ul>
 
-![Abbasgulu's github stats](https://github-readme-stats.vercel.app/api?username=abbasgulu&show_icons=true&theme=white)
