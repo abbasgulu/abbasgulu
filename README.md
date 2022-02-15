@@ -2,8 +2,7 @@
 
 <p> <img align="right" src="https://github.com/abbasgulu/abbasgulu/blob/main/assent/code.gif" width="360" style="max-width:100%;"> </p>
 
-<p> My name is Abbasgulu ALLAHVERDILI. I am an Azerbaijani student currently studying mathematical engineering in Turkey, Yıldız Technical University. 
-Also, I study in management information systems in Turkey, Anadolu University by distance education.
+<p> My name is Abbasgulu ALLAHVERDILI. I am an Azerbaijani student currently studying mathematical engineering in Turkey, Yıldız Technical University.
 I am mostly interested in machine learning and data analysis but I am also trying to learn basic knowledge about many fields in computer science. </p>
 
 <ul>
