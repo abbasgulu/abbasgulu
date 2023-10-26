@@ -12,6 +12,3 @@
   <a href="http://abbasgulu.com/" title="Personal Website - abbasgulu.com"><img src="https://img.shields.io/badge/-Personal_Website-00CCB4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
   </kbd>
 </p>
-
-<!-- Details -->
-<p>Passionate and driven Junior Graphic Designer and Data Scientist who enjoys combining creativity with analytical thinking. With a strong interest in both design and data, I strive to create visually appealing designs while utilizing data insights. I find joy in exploring the convergence of art and science, seeking innovative solutions, and embracing continuous learning in this ever-evolving field.</p>
